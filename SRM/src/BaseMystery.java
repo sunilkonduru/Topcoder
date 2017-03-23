@@ -1,10 +1,6 @@
 import java.util.*;
 import java.math.*;
-/*
-   Learnt more about string tokenizer. Can user multiple tokens to split the string
-   also first use of BigInteger and base conversions. We can do base conversions in Java as well.
-   We can use Integer.parseInt(val,base) to convert a value of a particular base to Integer.
- */
+
 public class BaseMystery
 {
     public int[] getBase(String equation)
